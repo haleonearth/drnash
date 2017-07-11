@@ -1,0 +1,64 @@
+.logo {
+    width: 150px;
+}
+
+.nav-container {
+    background-color: #292B2C;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+/* color top-level nav elements white */
+.nav-link {
+    color: #fff !important;
+}
+
+
+
+/* embolden active nav element */
+.active {
+    font-weight: 900;
+}
+
+
+
+
+/* ////// BEGIN NAV CONTACT ICONS */
+.nav-contact-icons {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  height: 20px;
+}
+
+/* flex-item1 */
+.navbar {
+  flex: 1 1 auto;
+}
+
+/* flex-item2 */
+.nav-contact-icons {
+  flex: 1 1 auto;
+}
+
+.nav-contact-icons img {
+    width: 35px;
+}
+
+.nav-mail-icon {
+    margin-right: 12px;
+}
+
+@media (max-width: 1199px) {
+    .nav-contact-icons {
+      display: none;
+    }
+}
+/* END NAV CONTACT ICONS ///// */
+
+

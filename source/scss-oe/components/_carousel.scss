@@ -1,0 +1,50 @@
+.jumbo-intro {
+    background-image: url("../images/jumbo.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.jumbo-intro {
+    color: #fff;
+}
+
+.jumbo-intro {
+    margin-bottom: 0;
+}
+
+
+/* ////// BEGIN CTA */
+.cta {
+    height: auto;
+    background-image: url("../images/cta-bg.png");
+    background-size: 50px;
+}
+
+.cta a {
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000;
+}
+
+.btn-cta-arrow {
+  width: 44px;
+  margin-top: -10px;
+}
+
+.jumbotron .row {
+    margin-top: 70px;
+}
+
+.jumbotron h1 {
+    margin-bottom: 30px;
+}
+
+.cta1-link {
+    margin-top: 4px;
+}
+
+
+
+/* END CTA ////// */
