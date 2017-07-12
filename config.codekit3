@@ -5028,6 +5028,12 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/source\/elements\/logo for dr nash.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/elements\/logo for dr nash.ai",
+		"oF": 0
+		},
 	"\/source\/images\/btn-arrow.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -5080,6 +5086,26 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/source\/images\/dr_nash.jpg": {
+		"ft": 16384,
+		"iS": 214763,
+		"oA": 0,
+		"oAP": "\/build\/images\/dr_nash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/source\/images\/facebook-square-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/facebook-square-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/source\/images\/icon-brain.svg": {
 		"ft": 2097152,
@@ -5164,9 +5190,9 @@
 	"\/source\/images\/jumbo.jpg": {
 		"ft": 16384,
 		"iS": 351236,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/build\/images\/jumbo.jpg",
-		"oF": 0,
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
@@ -5212,32 +5238,32 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/source\/images\/slides-assets\/slide-1.jpg": {
+	"\/source\/images\/slide-1.jpg": {
 		"ft": 16384,
 		"iS": 139603,
-		"oA": 0,
-		"oAP": "\/build\/images\/slides-assets\/slide-1.jpg",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/slide-1.jpg",
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/source\/images\/slides-assets\/slide-2.jpg": {
+	"\/source\/images\/slide-2.jpg": {
 		"ft": 16384,
 		"iS": 166392,
-		"oA": 0,
-		"oAP": "\/build\/images\/slides-assets\/slide-2.jpg",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/slide-2.jpg",
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/source\/images\/slides-assets\/slide-3.jpg": {
+	"\/source\/images\/slide-3.jpg": {
 		"ft": 16384,
 		"iS": 184344,
-		"oA": 0,
-		"oAP": "\/build\/images\/slides-assets\/slide-3.jpg",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/slide-3.jpg",
+		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -5698,6 +5724,12 @@
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/source\/site design comp for dr-nash.xd": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/site design comp for dr-nash.xd",
+		"oF": 1
 		}
 	},
 "hooks": [

@@ -13,7 +13,7 @@ require "includes/header.php";
 
 <div class="jumbotron jumbotron-fluid jumbo-intro">
   <div class="container">
-    <h1 class="display-3">Lorem Ipsum</h1>
+    <h1 class="display-3">Lorem Ipso</h1>
     <p class="lead">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur."</p>
   </div>
 </div>
