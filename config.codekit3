@@ -17,375 +17,76 @@
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.gitignore",
+		"oAP": "\/build\/.gitignore",
 		"oF": 0
 		},
-	"\/build\/css\/bootstrap-grid.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/bootstrap-grid-min.css",
+	"\/.vscode\/ftp-sync.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/build\/.vscode\/ftp-sync-min.json",
 		"oF": 0,
-		"oS": 3
+		"oO": 0,
+		"oS": 1
 		},
-	"\/build\/css\/bootstrap-reboot.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/bootstrap-reboot-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/build\/css\/bootstrap.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/bootstrap-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/build\/css\/bootstrap.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/bootstrap.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/build\/css\/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/build\/css\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/build\/css\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/build\/images\/btn-arrow.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/btn-arrow.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/cross-heart.png": {
-		"ft": 32768,
-		"iS": 7953,
-		"oA": 0,
-		"oAP": "\/build\/images\/cross-heart.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/build\/images\/cta-bg.png": {
-		"ft": 32768,
-		"iS": 3331,
-		"oA": 0,
-		"oAP": "\/build\/images\/cta-bg.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/build\/images\/cta-bg.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/cta-bg.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/cta-bg@2x.png": {
-		"ft": 32768,
-		"iS": 6509,
-		"oA": 0,
-		"oAP": "\/build\/images\/cta-bg@2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/build\/images\/icon-brain.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-brain.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/icon-heart.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-heart.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/icon-kit.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-kit.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/icon-mail.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-mail.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/icon-phone.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-phone.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/icon-pill.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-pill.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/icon-stethoscope.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-stethoscope.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/icon-test-tubes.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/icon-test-tubes.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/jumbo.jpg": {
-		"ft": 16384,
-		"iS": 351236,
-		"oA": 0,
-		"oAP": "\/build\/images\/jumbo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/build\/images\/logo.png": {
-		"ft": 32768,
-		"iS": 30044,
-		"oA": 0,
-		"oAP": "\/build\/images\/logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/build\/images\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/build\/images\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/build\/images\/mega-erase-pain.jpg": {
-		"ft": 16384,
-		"iS": 118377,
-		"oA": 0,
-		"oAP": "\/build\/images\/mega-erase-pain.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/build\/images\/mimg-erase-pain.jpg": {
-		"ft": 16384,
-		"iS": 118572,
-		"oA": 0,
-		"oAP": "\/build\/images\/mimg-erase-pain.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/build\/images\/slides-assets\/slide-1.jpg": {
-		"ft": 16384,
-		"iS": 139603,
-		"oA": 0,
-		"oAP": "\/build\/images\/slides-assets\/slide-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/build\/images\/slides-assets\/slide-2.jpg": {
-		"ft": 16384,
-		"iS": 166392,
-		"oA": 0,
-		"oAP": "\/build\/images\/slides-assets\/slide-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/build\/images\/slides-assets\/slide-3.jpg": {
-		"ft": 16384,
-		"iS": 184344,
-		"oA": 0,
-		"oAP": "\/build\/images\/slides-assets\/slide-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/build\/images\/slides.psd": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/images\/slides.psd",
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
 		"oF": 0
-		},
-	"\/build\/includes\/carousel.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/includes\/carousel.php",
-		"oF": 0
-		},
-	"\/build\/includes\/footer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/includes\/footer.php",
-		"oF": 0
-		},
-	"\/build\/includes\/header.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/includes\/header.php",
-		"oF": 0
-		},
-	"\/build\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/index.php",
-		"oF": 0
-		},
-	"\/build\/js\/bootstrap.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/build\/js\/bootstrap.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/.editorconfig": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/.editorconfig",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/.editorconfig",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/.eslintignore": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/.eslintignore",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/.eslintignore",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/.gitattributes": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/.gitattributes",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/.gitattributes",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/.gitignore": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/.gitignore",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/.gitignore",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/.hound.yml": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/.hound.yml",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/.hound.yml",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/.houndignore": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/.houndignore",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/.houndignore",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/.travis.yml": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/.travis.yml",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/.travis.yml",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/_config.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/_config.yml",
-		"oF": 0
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/_config.yml",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/bower-min.json",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/bower-min.json",
+		"oF": 1,
 		"oO": 0,
 		"oS": 1
 		},
@@ -397,9 +98,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/CHANGELOG.html",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/CHANGELOG.html",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -409,15 +110,15 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/CNAME": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/CNAME",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/CNAME",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/composer.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/composer-min.json",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/composer-min.json",
+		"oF": 1,
 		"oO": 0,
 		"oS": 1
 		},
@@ -429,9 +130,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/CONTRIBUTING.html",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/CONTRIBUTING.html",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -445,30 +146,30 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.min.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.min-min.css",
-		"oF": 1,
+		"oAP": "\/build\/css\/bootstrap-grid.min-min.css",
+		"oF": 3,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.min.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.min.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-grid.min.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.css": {
@@ -477,30 +178,30 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.min.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.min-min.css",
-		"oF": 1,
+		"oAP": "\/build\/css\/bootstrap-reboot.min-min.css",
+		"oF": 3,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.min.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.min.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-reboot.min.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.css": {
@@ -509,37 +210,37 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap-min.css",
-		"oF": 1,
+		"oAP": "\/build\/css\/bootstrap-min.css",
+		"oF": 3,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.min.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.min-min.css",
-		"oF": 1,
+		"oAP": "\/build\/css\/bootstrap.min-min.css",
+		"oF": 3,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.min.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.min.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/css\/bootstrap.min.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -547,64 +248,64 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap.min.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap.min-min.js",
-		"oF": 1,
+		"oA": 2,
+		"oAP": "\/build\/js\/bootstrap.min-min.js",
+		"oF": 3,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/.htmlhintrc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/.htmlhintrc",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/.htmlhintrc",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/breakpoints.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/breakpoints.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_data\/breakpoints.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/browser-bugs.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/browser-bugs.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_data\/browser-bugs.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/browser-features.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/browser-features.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_data\/browser-features.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/core-team.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/core-team.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_data\/core-team.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/nav.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/nav.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_data\/nav.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/showcase.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/showcase.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_data\/showcase.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/translations.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_data\/translations.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_data\/translations.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/ads.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/ads.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/ads.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/callout-warning-color-assistive-technologies.md": {
@@ -616,7 +317,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/callout-warning-color-assistive-technologies.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/callout-warning-color-assistive-technologies.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -628,91 +329,91 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/footer.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/footer.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/footer.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/header.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/header.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/header.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/nav-docs.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/nav-docs.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/nav-docs.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/nav-home.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/nav-home.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/nav-home.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/page-headers.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/page-headers.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/page-headers.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/social.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/social.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_includes\/social.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/default.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/default.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/default.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/docs.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/docs.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/docs.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/home.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/home.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/home.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/simple.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/simple.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_layouts\/simple.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/bridge.rb": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/bridge.rb",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/bridge.rb",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/bugify.rb": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/bugify.rb",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/bugify.rb",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/callout.rb": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/callout.rb",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/callout.rb",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/highlight_alt.rb": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/highlight_alt.rb",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/highlight_alt.rb",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/markdown-block.rb": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/markdown-block.rb",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/_plugins\/markdown-block.rb",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/about\/brand.md": {
@@ -724,7 +425,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/about\/brand.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/about\/brand.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -742,7 +443,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/about\/history.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/about\/history.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -760,7 +461,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/about\/license.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/about\/license.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -778,7 +479,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/about\/team.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/about\/team.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -796,7 +497,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/about\/translations.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/about\/translations.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -809,7 +510,7 @@
 		"ft": 32768,
 		"iS": 6140,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/apple-touch-icon.png",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/apple-touch-icon.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -820,7 +521,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-outline.svg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-outline.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
@@ -830,7 +531,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-punchout.svg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-punchout.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
@@ -840,7 +541,7 @@
 		"ft": 32768,
 		"iS": 46176,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-social-logo.png",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-social-logo.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -851,7 +552,7 @@
 		"ft": 32768,
 		"iS": 337454,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-social.png",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-social.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -862,7 +563,7 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-solid.svg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/brand\/bootstrap-solid.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
@@ -874,21 +575,21 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/css\/docs.min-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/css\/docs.min-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/css\/docs.min.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/css\/docs.min.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/css\/docs.min.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/bs-themes.png": {
 		"ft": 32768,
 		"iS": 178413,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/bs-themes.png",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/bs-themes.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -899,7 +600,7 @@
 		"ft": 32768,
 		"iS": 2926,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/components.png",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/components.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -910,7 +611,7 @@
 		"ft": 32768,
 		"iS": 3307,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/devices.png",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/devices.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -921,7 +622,7 @@
 		"ft": 16384,
 		"iS": 159269,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-lyft.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-lyft.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -931,7 +632,7 @@
 		"ft": 16384,
 		"iS": 201643,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-newsweek.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-newsweek.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -941,7 +642,7 @@
 		"ft": 16384,
 		"iS": 161711,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-riot.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-riot.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -951,7 +652,7 @@
 		"ft": 16384,
 		"iS": 198620,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-vogue.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/expo-vogue.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -961,7 +662,7 @@
 		"ft": 32768,
 		"iS": 11365,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/sass.png",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/img\/sass.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -972,7 +673,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/docs.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/docs.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -981,7 +682,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie-emulation-modes-warning-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie-emulation-modes-warning-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -990,7 +691,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie10-viewport-bug-workaround-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie10-viewport-bug-workaround-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -999,7 +700,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/src\/application-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/src\/application-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1008,7 +709,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/anchor.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/anchor.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1017,7 +718,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/clipboard.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/clipboard.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1026,7 +727,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/holder.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/holder.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1035,7 +736,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jekyll-search.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jekyll-search.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1044,7 +745,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jquery-slim.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jquery-slim.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1053,7 +754,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/tether.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/tether.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1066,7 +767,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_ads.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_ads.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1079,7 +780,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_anchor.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_anchor.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1092,7 +793,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_booticon.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_booticon.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1105,7 +806,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_brand.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_brand.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1118,7 +819,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_browser-bugs.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_browser-bugs.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1131,7 +832,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_buttons.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_buttons.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1144,7 +845,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_callouts.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_callouts.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1157,7 +858,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_clipboard-js.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_clipboard-js.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1170,7 +871,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_component-examples.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_component-examples.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1183,7 +884,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_content.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_content.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1196,7 +897,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_examples.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_examples.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1209,7 +910,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_featured-sites.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_featured-sites.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1222,7 +923,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_featurettes.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_featurettes.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1235,7 +936,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_footer.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_footer.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1248,7 +949,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_masthead.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_masthead.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1261,7 +962,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_nav.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_nav.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1274,7 +975,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_page-header.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_page-header.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1287,7 +988,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_responsive-tests.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_responsive-tests.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1300,7 +1001,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_sidebar.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_sidebar.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1313,7 +1014,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_skiplink.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_skiplink.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1326,7 +1027,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_syntax.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_syntax.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1339,7 +1040,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_team.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/_team.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1352,7 +1053,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/docs.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/scss\/docs.css",
 		"oF": 1,
 		"oS": 0,
 		"uL": 1
@@ -1366,7 +1067,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/browser-bugs.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/browser-bugs.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1378,7 +1079,7 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/CNAME": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/CNAME",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/CNAME",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/alerts.md": {
@@ -1390,7 +1091,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/alerts.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/alerts.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1408,7 +1109,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/badge.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/badge.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1426,7 +1127,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/breadcrumb.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/breadcrumb.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1444,7 +1145,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/button-group.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/button-group.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1462,7 +1163,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/buttons.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/buttons.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1480,7 +1181,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/card.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/card.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1498,7 +1199,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/carousel.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/carousel.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1516,7 +1217,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/collapse.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/collapse.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1534,7 +1235,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/dropdowns.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/dropdowns.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1552,7 +1253,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/forms.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/forms.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1570,7 +1271,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/input-group.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/input-group.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1588,7 +1289,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/jumbotron.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/jumbotron.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1606,7 +1307,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/list-group.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/list-group.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1624,7 +1325,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/modal.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/modal.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1642,7 +1343,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/navbar.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/navbar.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1660,7 +1361,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/navs.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/navs.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1678,7 +1379,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/pagination.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/pagination.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1696,7 +1397,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/popovers.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/popovers.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1714,7 +1415,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/progress.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/progress.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1732,7 +1433,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/scrollspy.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/scrollspy.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1750,7 +1451,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/components\/tooltips.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/components\/tooltips.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1768,7 +1469,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/content\/code.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/content\/code.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1786,7 +1487,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/content\/figures.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/content\/figures.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1804,7 +1505,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/content\/images.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/content\/images.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1822,7 +1523,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/content\/reboot.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/content\/reboot.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1840,7 +1541,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/content\/tables.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/content\/tables.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1858,7 +1559,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/content\/typography.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/content\/typography.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -1873,14 +1574,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.min.css": {
@@ -1889,14 +1590,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.min-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.min-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.min.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.min.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-grid.min.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.css": {
@@ -1905,14 +1606,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.min.css": {
@@ -1921,14 +1622,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.min-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.min-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.min.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.min.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-reboot.min.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.css": {
@@ -1937,14 +1638,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.min.css": {
@@ -1953,21 +1654,21 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.min-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.min-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.min.css.map": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.min.css.map",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/css\/bootstrap.min.css.map",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1976,7 +1677,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap.min-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap.min-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -1987,14 +1688,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/album\/album-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/album\/album-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/album\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/album\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/album\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/blog\/blog.css": {
@@ -2003,14 +1704,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/blog\/blog-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/blog\/blog-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/blog\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/blog\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/blog\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/carousel\/carousel.css": {
@@ -2019,14 +1720,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/carousel\/carousel-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/carousel\/carousel-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/carousel\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/carousel\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/carousel\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/cover\/cover.css": {
@@ -2035,14 +1736,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/cover\/cover-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/cover\/cover-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/cover\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/cover\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/cover\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/dashboard\/dashboard.css": {
@@ -2051,14 +1752,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/dashboard\/dashboard-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/dashboard\/dashboard-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/dashboard\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/dashboard\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/dashboard\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/grid\/grid.css": {
@@ -2067,14 +1768,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/grid\/grid-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/grid\/grid-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/grid\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/grid\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/grid\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/index.md": {
@@ -2086,7 +1787,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/index.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2098,7 +1799,7 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/jumbotron\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/jumbotron\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/jumbotron\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/jumbotron\/jumbotron.css": {
@@ -2107,14 +1808,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/jumbotron\/jumbotron-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/jumbotron\/jumbotron-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/justified-nav\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/justified-nav\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/justified-nav\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/justified-nav\/justified-nav.css": {
@@ -2123,14 +1824,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/justified-nav\/justified-nav-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/justified-nav\/justified-nav-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/narrow-jumbotron\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/narrow-jumbotron\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/narrow-jumbotron\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/narrow-jumbotron\/narrow-jumbotron.css": {
@@ -2139,14 +1840,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/narrow-jumbotron\/narrow-jumbotron-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/narrow-jumbotron\/narrow-jumbotron-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top-fixed\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top-fixed\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top-fixed\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top-fixed\/navbar-top-fixed.css": {
@@ -2155,14 +1856,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top-fixed\/navbar-top-fixed-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top-fixed\/navbar-top-fixed-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top\/navbar-top.css": {
@@ -2171,14 +1872,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top\/navbar-top-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbar-top\/navbar-top-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbars\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbars\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbars\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbars\/navbar.css": {
@@ -2187,14 +1888,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbars\/navbar-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/navbars\/navbar-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/offcanvas.css": {
@@ -2203,7 +1904,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/offcanvas-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/offcanvas-min.css",
 		"oF": 1,
 		"oS": 3
 		},
@@ -2211,7 +1912,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/offcanvas-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/offcanvas-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -2220,7 +1921,7 @@
 		"ft": 16384,
 		"iS": 64394,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/album.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/album.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2230,7 +1931,7 @@
 		"ft": 16384,
 		"iS": 122280,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/blog.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/blog.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2240,7 +1941,7 @@
 		"ft": 16384,
 		"iS": 82270,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/carousel.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/carousel.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2250,7 +1951,7 @@
 		"ft": 16384,
 		"iS": 36580,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/cover.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/cover.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2260,7 +1961,7 @@
 		"ft": 16384,
 		"iS": 105325,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/dashboard.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/dashboard.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2270,7 +1971,7 @@
 		"ft": 16384,
 		"iS": 129265,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/equal-height-columns.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/equal-height-columns.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2280,7 +1981,7 @@
 		"ft": 16384,
 		"iS": 99951,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/grid.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/grid.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2290,7 +1991,7 @@
 		"ft": 16384,
 		"iS": 68573,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/jumbotron-narrow.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/jumbotron-narrow.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2300,7 +2001,7 @@
 		"ft": 16384,
 		"iS": 101076,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/jumbotron.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/jumbotron.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2310,7 +2011,7 @@
 		"ft": 16384,
 		"iS": 79037,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/justified-nav.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/justified-nav.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2320,7 +2021,7 @@
 		"ft": 16384,
 		"iS": 37932,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/navbar-fixed.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/navbar-fixed.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2330,7 +2031,7 @@
 		"ft": 16384,
 		"iS": 39654,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/navbar-static.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/navbar-static.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2340,7 +2041,7 @@
 		"ft": 16384,
 		"iS": 40956,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/navbar.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/navbar.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2350,7 +2051,7 @@
 		"ft": 16384,
 		"iS": 61060,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/non-responsive.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/non-responsive.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2360,7 +2061,7 @@
 		"ft": 16384,
 		"iS": 112527,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/offcanvas.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/offcanvas.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2370,7 +2071,7 @@
 		"ft": 16384,
 		"iS": 13596,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/sign-in.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/sign-in.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2380,7 +2081,7 @@
 		"ft": 16384,
 		"iS": 22571,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/starter-template.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/starter-template.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2390,7 +2091,7 @@
 		"ft": 16384,
 		"iS": 39249,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/sticky-footer-navbar.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/sticky-footer-navbar.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2400,7 +2101,7 @@
 		"ft": 16384,
 		"iS": 25002,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/sticky-footer.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/sticky-footer.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2410,7 +2111,7 @@
 		"ft": 16384,
 		"iS": 85405,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/theme.jpg",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/screenshots\/theme.jpg",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
@@ -2419,7 +2120,7 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/signin\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/signin\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/signin\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/signin\/signin.css": {
@@ -2428,14 +2129,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/signin\/signin-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/signin\/signin-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/starter-template\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/starter-template\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/starter-template\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/starter-template\/starter-template.css": {
@@ -2444,14 +2145,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/starter-template\/starter-template-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/starter-template\/starter-template-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer-navbar\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer-navbar\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer-navbar\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer-navbar\/sticky-footer-navbar.css": {
@@ -2460,14 +2161,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer-navbar\/sticky-footer-navbar-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer-navbar\/sticky-footer-navbar-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer\/sticky-footer.css": {
@@ -2476,14 +2177,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer\/sticky-footer-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/sticky-footer\/sticky-footer-min.css",
 		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/tooltip-viewport.css": {
@@ -2492,7 +2193,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/tooltip-viewport-min.css",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/tooltip-viewport-min.css",
 		"oF": 1,
 		"oS": 3
 		},
@@ -2500,7 +2201,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/tooltip-viewport-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/tooltip-viewport-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -2514,7 +2215,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/extend\/approach.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/extend\/approach.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2532,7 +2233,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/extend\/icon-fonts.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/extend\/icon-fonts.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2550,7 +2251,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/extend\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/extend\/index.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2562,7 +2263,7 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/favicon.ico": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/favicon.ico",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/favicon.ico",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/accessibility.md": {
@@ -2574,7 +2275,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/accessibility.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/accessibility.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2592,7 +2293,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/best-practices.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/best-practices.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2610,7 +2311,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/browsers-devices.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/browsers-devices.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2628,7 +2329,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/build-tools.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/build-tools.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2646,7 +2347,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/contents.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/contents.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2664,7 +2365,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/download.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/download.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2682,7 +2383,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/introduction.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/introduction.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2700,7 +2401,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/javascript.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/javascript.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2718,7 +2419,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/options.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/getting-started\/options.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2730,7 +2431,7 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/index.html": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/index.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/index.html",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/layout\/grid.md": {
@@ -2742,7 +2443,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/layout\/grid.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/layout\/grid.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2760,7 +2461,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/layout\/media-object.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/layout\/media-object.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2778,7 +2479,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/layout\/overview.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/layout\/overview.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2796,7 +2497,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/layout\/responsive-utilities.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/layout\/responsive-utilities.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2808,7 +2509,7 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/LICENSE": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/LICENSE",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/LICENSE",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/migration.md": {
@@ -2820,7 +2521,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/migration.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/migration.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2832,13 +2533,13 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/robots.txt": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/robots.txt",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/robots.txt",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/search.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/search-min.json",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/search-min.json",
 		"oF": 1,
 		"oO": 0,
 		"oS": 1
@@ -2852,7 +2553,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/borders.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/borders.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2870,7 +2571,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/clearfix.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/clearfix.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2888,7 +2589,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/close-icon.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/close-icon.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2906,7 +2607,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/colors.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/colors.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2924,7 +2625,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/display-property.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/display-property.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2942,7 +2643,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/flexbox.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/flexbox.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2960,7 +2661,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/image-replacement.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/image-replacement.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2978,7 +2679,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/invisible-content.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/invisible-content.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -2996,7 +2697,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/position.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/position.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3014,7 +2715,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/responsive-helpers.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/responsive-helpers.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3032,7 +2733,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/screenreaders.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/screenreaders.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3050,7 +2751,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/sizing.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/sizing.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3068,7 +2769,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/spacing.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/spacing.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3086,7 +2787,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/typography.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/typography.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3104,7 +2805,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/vertical-align.html",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/utilities\/vertical-align.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -3115,21 +2816,21 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/Gemfile": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/Gemfile",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/Gemfile",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/Gemfile.lock": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/Gemfile.lock",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/Gemfile.lock",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/change-version.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/grunt\/change-version-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/change-version-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -3137,7 +2838,7 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/configBridge.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/grunt\/configBridge-min.json",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/configBridge-min.json",
 		"oF": 1,
 		"oO": 0,
 		"oS": 1
@@ -3145,13 +2846,13 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/gcp-key.json.enc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/grunt\/gcp-key.json.enc",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/gcp-key.json.enc",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/npm-shrinkwrap.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/grunt\/npm-shrinkwrap-min.json",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/npm-shrinkwrap-min.json",
 		"oF": 1,
 		"oO": 0,
 		"oS": 1
@@ -3160,7 +2861,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/grunt\/postcss-min.js",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/postcss-min.js",
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
@@ -3168,21 +2869,21 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/sauce_browsers.yml": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/grunt\/sauce_browsers.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/sauce_browsers.yml",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/upload-preview.sh": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/grunt\/upload-preview.sh",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/upload-preview.sh",
 		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/Gruntfile.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/Gruntfile-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/Gruntfile-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
@@ -3194,9 +2895,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/ISSUE_TEMPLATE.html",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/ISSUE_TEMPLATE.html",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -3206,261 +2907,261 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/.babelrc": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/.babelrc",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/.babelrc",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/.eslintrc-min.json",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/.eslintrc-min.json",
+		"oF": 1,
 		"oO": 0,
 		"oS": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/button.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/button-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/button-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/button.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/button.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/button.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/util.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/util-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/util-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/util.js.map": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/util.js.map",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/util.js.map",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/alert.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/alert-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/alert-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/button.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/button-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/button-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/carousel.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/carousel-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/carousel-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/collapse.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/collapse-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/collapse-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/dropdown.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/dropdown-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/dropdown-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/modal.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/modal-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/modal-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/popover.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/popover-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/popover-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/scrollspy.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/scrollspy-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/scrollspy-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/tab.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/tab-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/tab-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
@@ -3468,8 +3169,8 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/tooltip-min.js",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/tooltip-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
@@ -3477,24 +3178,24 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/util-min.js",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/util-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/.eslintrc-min.json",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/.eslintrc-min.json",
+		"oF": 1,
 		"oO": 0,
 		"oS": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/index.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/index.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/index.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/README.md": {
 		"cS": 0,
@@ -3504,9 +3205,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/README.html",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/README.html",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -3517,99 +3218,99 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/alert.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/alert-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/alert-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/button.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/button-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/button-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/carousel.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/carousel-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/carousel-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/collapse.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/collapse-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/collapse-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/dropdown.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/dropdown-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/dropdown-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/modal.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/modal-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/modal-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/phantom.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/phantom-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/phantom-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/popover.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/popover-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/popover-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/scrollspy.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/scrollspy-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/scrollspy-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tab.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tab-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tab-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tooltip.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tooltip-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tooltip-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
@@ -3618,118 +3319,118 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/vendor\/qunit-min.css",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/vendor\/qunit-min.css",
+		"oF": 1,
 		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/vendor\/qunit.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/vendor\/qunit-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/vendor\/qunit-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/alert.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/alert.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/alert.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/button.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/button.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/button.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/carousel.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/carousel.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/carousel.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/collapse.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/collapse.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/collapse.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/dropdown.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/dropdown.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/dropdown.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/modal.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/modal.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/modal.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/popover.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/popover.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/popover.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/scrollspy.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/scrollspy.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/scrollspy.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/tab.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/tab.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/tab.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/tooltip.html": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/tooltip.html",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/visual\/tooltip.html",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/LICENSE": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/LICENSE",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/LICENSE",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/nuget\/bootstrap.nuspec": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/nuget\/bootstrap.nuspec",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/nuget\/bootstrap.nuspec",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/nuget\/bootstrap.sass.nuspec": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/nuget\/bootstrap.sass.nuspec",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/nuget\/bootstrap.sass.nuspec",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/nuget\/MyGet.ps1": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/nuget\/MyGet.ps1",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/nuget\/MyGet.ps1",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/package.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/package-min.js",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/package-min.js",
+		"oF": 1,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/package-min.json",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/package-min.json",
+		"oF": 1,
 		"oO": 0,
 		"oS": 1
 		},
@@ -3741,9 +3442,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/README.html",
-		"oF": 0,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/README.html",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -3754,16 +3455,502 @@
 	"\/source\/bootstrap-4.0.0-alpha.6\/sache.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/sache-min.json",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/sache-min.json",
+		"oF": 1,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.scss-lint.yml": {
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_alert.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_alert.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_background-variant.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_background-variant.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_badge.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_badge.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_border-radius.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_border-radius.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_breakpoints.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_breakpoints.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_buttons.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_buttons.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_cards.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_cards.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_clearfix.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_clearfix.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_float.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_float.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_forms.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_forms.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_gradients.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_gradients.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_grid-framework.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_grid-framework.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_grid.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_grid.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_hover.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_hover.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_image.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_image.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_list-group.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_list-group.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_lists.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_lists.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_nav-divider.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_nav-divider.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_pagination.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_pagination.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_reset-text.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_reset-text.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_resize.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_resize.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_screen-reader.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_screen-reader.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_size.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_size.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_table-row.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_table-row.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_text-emphasis.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_text-emphasis.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_text-hide.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_text-hide.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_text-truncate.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_text-truncate.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_transforms.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_transforms.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_visibility.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/30e18282f7f92b329324f803ccc0e76fcd934e53\/_visibility.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_align.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_align.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_background.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_background.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_borders.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_borders.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_clearfix.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_clearfix.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_display.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_display.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_flex.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_flex.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_float.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_float.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_position.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_position.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_screenreaders.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_screenreaders.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_sizing.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_sizing.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_spacing.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_spacing.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_text.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_text.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_visibility.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/730d0a5278ec5d6fdd9f78d89c4da48be952520c\/_visibility.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_alert.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_alert.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_badge.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_badge.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_breadcrumb.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_breadcrumb.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_button-group.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_button-group.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_buttons.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_buttons.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_card.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_card.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_carousel.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_carousel.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_close.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_close.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_code.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_code.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_custom-forms.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_custom-forms.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_custom.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_custom.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_dropdown.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_dropdown.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_forms.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_forms.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_grid.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_grid.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_images.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_images.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_input-group.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_input-group.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_jumbotron.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_jumbotron.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_list-group.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_list-group.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_media.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_media.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_mixins.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_mixins.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_modal.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_modal.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_nav.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_nav.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_navbar.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_navbar.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_normalize.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_normalize.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_pagination.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_pagination.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_popover.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_popover.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_print.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_print.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_progress.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_progress.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_reboot.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_reboot.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_responsive-embed.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_responsive-embed.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_tables.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_tables.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_tooltip.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_tooltip.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_transitions.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_transitions.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_type.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_type.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_utilities.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_utilities.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_variables.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/_variables.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/bootstrap-grid.scssc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/.scss-lint.yml",
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/bootstrap-grid.scssc",
 		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/bootstrap-reboot.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/bootstrap-reboot.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/bootstrap.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.sass-cache\/d8674e7e4b8cca446aa8bd2bd461c072245de9d5\/bootstrap.scssc",
+		"oF": 0
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/.scss-lint.yml": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/.scss-lint.yml",
+		"oF": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/_alert.scss": {
 		"aP": 0,
@@ -3773,8 +3960,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_alert.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_alert.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3786,8 +3973,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_badge.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_badge.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3799,8 +3986,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_breadcrumb.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_breadcrumb.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3812,8 +3999,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_button-group.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_button-group.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3825,8 +4012,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_buttons.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_buttons.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3838,8 +4025,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_card.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_card.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3851,8 +4038,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_carousel.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_carousel.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3864,8 +4051,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_close.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_close.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3877,8 +4064,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_code.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_code.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3890,8 +4077,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_custom-forms.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_custom-forms.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3903,8 +4090,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_custom.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_custom.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3916,8 +4103,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_dropdown.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_dropdown.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3929,8 +4116,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_forms.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_forms.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3942,8 +4129,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_grid.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_grid.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3955,8 +4142,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_images.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_images.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3968,8 +4155,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_input-group.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_input-group.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3981,8 +4168,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_jumbotron.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_jumbotron.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -3994,8 +4181,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_list-group.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_list-group.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4007,8 +4194,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_media.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_media.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4020,8 +4207,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_mixins.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_mixins.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4033,8 +4220,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_modal.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_modal.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4046,8 +4233,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_nav.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_nav.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4059,8 +4246,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_navbar.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_navbar.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4072,8 +4259,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_normalize.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_normalize.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4085,8 +4272,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_pagination.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_pagination.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4098,8 +4285,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_popover.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_popover.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4111,8 +4298,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_print.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_print.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4124,8 +4311,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_progress.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_progress.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4137,8 +4324,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_reboot.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_reboot.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4150,8 +4337,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_responsive-embed.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_responsive-embed.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4163,8 +4350,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_tables.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_tables.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4176,8 +4363,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_tooltip.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_tooltip.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4189,8 +4376,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_transitions.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_transitions.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4202,8 +4389,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_type.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_type.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4215,8 +4402,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_utilities.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_utilities.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4228,8 +4415,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/_variables.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/_variables.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4241,10 +4428,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/bootstrap-grid.css",
-		"oF": 2,
-		"oS": 0,
+		"oAP": "\/build\/css\/bootstrap-grid.min.css",
+		"oF": 3,
+		"oS": 3,
 		"uL": 1
+		},
+	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/bootstrap-reboot.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/bootstrap-reboot.min-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/bootstrap-reboot.scss": {
 		"aP": 0,
@@ -4254,9 +4451,9 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/bootstrap-reboot.css",
-		"oF": 2,
-		"oS": 0,
+		"oAP": "\/build\/css\/bootstrap-reboot.min.css",
+		"oF": 3,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/bootstrap.scss": {
@@ -4267,9 +4464,9 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/build\/css\/bootstrap.css",
-		"oF": 2,
-		"oS": 0,
+		"oAP": "\/build\/css\/bootstrap.min.css",
+		"oF": 3,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_alert.scss": {
@@ -4280,8 +4477,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_alert.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_alert.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4293,8 +4490,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_background-variant.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_background-variant.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4306,8 +4503,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_badge.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_badge.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4319,8 +4516,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_border-radius.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_border-radius.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4332,8 +4529,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_breakpoints.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_breakpoints.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4345,8 +4542,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_buttons.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_buttons.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4358,8 +4555,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_cards.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_cards.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4371,8 +4568,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_clearfix.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_clearfix.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4384,8 +4581,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_float.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_float.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4397,8 +4594,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_forms.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_forms.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4410,8 +4607,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_gradients.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_gradients.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4423,8 +4620,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_grid-framework.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_grid-framework.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4436,8 +4633,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_grid.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_grid.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4449,8 +4646,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_hover.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_hover.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4462,8 +4659,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_image.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_image.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4475,8 +4672,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_list-group.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_list-group.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4488,8 +4685,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_lists.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_lists.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4501,8 +4698,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_nav-divider.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_nav-divider.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4514,8 +4711,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_navbar-align.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_navbar-align.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4527,8 +4724,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_pagination.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_pagination.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4540,8 +4737,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_reset-text.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_reset-text.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4553,8 +4750,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_resize.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_resize.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4566,8 +4763,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_screen-reader.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_screen-reader.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4579,8 +4776,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_size.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_size.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4592,8 +4789,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_table-row.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_table-row.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4605,8 +4802,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_text-emphasis.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_text-emphasis.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4618,8 +4815,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_text-hide.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_text-hide.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4631,8 +4828,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_text-truncate.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_text-truncate.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4644,8 +4841,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_transforms.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_transforms.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4657,8 +4854,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_visibility.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/mixins\/_visibility.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4670,8 +4867,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_align.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_align.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4683,8 +4880,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_background.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_background.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4696,8 +4893,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_borders.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_borders.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4709,8 +4906,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_clearfix.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_clearfix.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4722,8 +4919,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_display.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_display.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4735,8 +4932,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_flex.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_flex.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4748,8 +4945,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_float.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_float.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4761,8 +4958,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_position.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_position.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4774,8 +4971,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_screenreaders.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_screenreaders.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4787,8 +4984,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_sizing.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_sizing.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4800,8 +4997,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_spacing.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_spacing.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4813,8 +5010,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_text.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_text.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4826,142 +5023,395 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_visibility.css",
-		"oF": 0,
+		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/scss\/utilities\/_visibility.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/source\/images\/btn-arrow.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/btn-arrow.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/cross-heart.png": {
+		"ft": 32768,
+		"iS": 7953,
+		"oA": 0,
+		"oAP": "\/build\/images\/cross-heart.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/cta-bg.png": {
+		"ft": 32768,
+		"iS": 3331,
+		"oA": 0,
+		"oAP": "\/build\/images\/cta-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/cta-bg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/cta-bg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/cta-bg@2x.png": {
+		"ft": 32768,
+		"iS": 6509,
+		"oA": 0,
+		"oAP": "\/build\/images\/cta-bg@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/icon-brain.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-brain.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/icon-heart.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-heart.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/icon-kit.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-kit.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/icon-mail.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-mail.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/icon-phone.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-phone.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/icon-pill.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-pill.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/icon-stethoscope.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-stethoscope.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/icon-test-tubes.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/icon-test-tubes.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/jumbo.jpg": {
+		"ft": 16384,
+		"iS": 351236,
+		"oA": 0,
+		"oAP": "\/build\/images\/jumbo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/source\/images\/logo.png": {
+		"ft": 32768,
+		"iS": 30044,
+		"oA": 0,
+		"oAP": "\/build\/images\/logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/mega-erase-pain.jpg": {
+		"ft": 16384,
+		"iS": 118377,
+		"oA": 0,
+		"oAP": "\/build\/images\/mega-erase-pain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/source\/images\/mimg-erase-pain.jpg": {
+		"ft": 16384,
+		"iS": 118572,
+		"oA": 0,
+		"oAP": "\/build\/images\/mimg-erase-pain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/source\/images\/slides-assets\/slide-1.jpg": {
+		"ft": 16384,
+		"iS": 139603,
+		"oA": 0,
+		"oAP": "\/build\/images\/slides-assets\/slide-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/source\/images\/slides-assets\/slide-2.jpg": {
+		"ft": 16384,
+		"iS": 166392,
+		"oA": 0,
+		"oAP": "\/build\/images\/slides-assets\/slide-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/source\/images\/slides-assets\/slide-3.jpg": {
+		"ft": 16384,
+		"iS": 184344,
+		"oA": 0,
+		"oAP": "\/build\/images\/slides-assets\/slide-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/source\/images\/slides.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/images\/slides.psd",
+		"oF": 0
+		},
+	"\/source\/includes\/carousel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/includes\/carousel.php",
+		"oF": 0
+		},
+	"\/source\/includes\/footer.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/includes\/footer.php",
+		"oF": 0
+		},
+	"\/source\/includes\/header.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/includes\/header.php",
+		"oF": 0
+		},
+	"\/source\/index.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/index.php",
+		"oF": 0
+		},
+	"\/source\/js\/bootstrap.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/js\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_footer.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_footer.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_footer.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_grid.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_grid.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_grid.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_header.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_header.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_header.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_main.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_main.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_main.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_sidebar.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_sidebar.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/090e5a5eafaafee00b18086650ef28f939c00d2b\/_sidebar.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/60f1c8bf29716038c8177b12688a9293962f1445\/main.scssc": {
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/60f1c8bf29716038c8177b12688a9293962f1445\/main.scssc",
-		"oF": 0
+		"oA": 1,
+		"oAP": "\/build\/scss-oe\/.sass-cache\/60f1c8bf29716038c8177b12688a9293962f1445\/main.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_buttons.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_buttons.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_buttons.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_carousel.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_carousel.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_carousel.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_feedback.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_feedback.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_feedback.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_forms.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_forms.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_forms.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_gallery.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_gallery.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_gallery.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_navigation.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_navigation.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_navigation.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_tables.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_tables.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/826785b3dcff409e297924fcf6f4f299db3eec19\/_tables.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_color.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_color.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_color.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_reset.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_reset.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_reset.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_typography.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_typography.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/9867330fc48e531e94c2e0d0a2ea3bfdd5848cc2\/_typography.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_about.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_about.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_about.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_contact.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_contact.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_contact.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_home.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_home.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/a32a53d67ba5c52e1eee13e27b33f45352f8afb4\/_home.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_functions.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_functions.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_functions.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_mixins.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_mixins.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_mixins.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_variables.scssc": {
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_variables.scssc",
-		"oF": 0
+		"oAP": "\/build\/scss-oe\/.sass-cache\/b6aab15429a995db2b61c4443ded4849c2f337cd\/_variables.scssc",
+		"oF": 1
 		},
 	"\/source\/scss-oe\/base\/_color.scss": {
 		"aP": 0,
@@ -4971,8 +5421,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/base\/_color.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/base\/_color.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4984,8 +5434,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/base\/_reset.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/base\/_reset.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -4997,8 +5447,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/base\/_typography.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/base\/_typography.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5010,8 +5460,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/components\/_buttons.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/components\/_buttons.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5023,8 +5473,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/components\/_carousel.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/components\/_carousel.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5036,8 +5486,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/components\/_feedback.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/components\/_feedback.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5049,8 +5499,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/components\/_forms.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/components\/_forms.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5062,8 +5512,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/components\/_gallery.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/components\/_gallery.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5075,8 +5525,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/components\/_navigation.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/components\/_navigation.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5088,8 +5538,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/components\/_tables.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/components\/_tables.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5101,8 +5551,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/layout\/_footer.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/layout\/_footer.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5114,8 +5564,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/layout\/_grid.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/layout\/_grid.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5127,8 +5577,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/layout\/_header.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/layout\/_header.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5140,8 +5590,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/layout\/_main.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/layout\/_main.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5153,8 +5603,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/layout\/_sidebar.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/layout\/_sidebar.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5167,7 +5617,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/build\/css\/main.css",
-		"oF": 2,
+		"oF": 3,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5179,8 +5629,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/pages\/_about.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/pages\/_about.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5192,8 +5642,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/pages\/_contact.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/pages\/_contact.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5205,8 +5655,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/pages\/_home.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/pages\/_home.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5218,8 +5668,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/utils\/_functions.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/utils\/_functions.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5231,8 +5681,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/utils\/_mixins.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/utils\/_mixins.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		},
@@ -5244,8 +5694,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/source\/scss-oe\/utils\/_variables.css",
-		"oF": 0,
+		"oAP": "\/build\/scss-oe\/utils\/_variables.css",
+		"oF": 1,
 		"oS": 0,
 		"uL": 1
 		}
@@ -5513,7 +5963,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -7195,7 +7645,7 @@
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
-	"previewPathAddition": "",
+	"previewPathAddition": "\/build\/index.php",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
@@ -7366,7 +7816,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": ""
+	"websiteRelativeRoot": "\/build"
 	},
 "settingsFileVersion": "3"
 }

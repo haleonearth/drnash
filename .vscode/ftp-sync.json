@@ -1,0 +1,26 @@
+{
+    "remotePath": "./",
+    "host": "haleonearth.com",
+    "username": "forty4threese7ennyne@haleonearth.com",
+    "password": "&UY[6CNEBsy);ZTEk4JJhmVziKQBjtuN",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\source",
+        "\\.codekit",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
