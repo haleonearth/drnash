@@ -1,9 +1,8 @@
-.logo {
-    width: 150px;
-}
 
-.nav-container {
-    background-color: #292B2C;
+
+.nav-container,
+.navbar-inverse {
+    background-color: $dnBlue !important;
 }
 
 .nav-container {
@@ -26,39 +25,15 @@
 }
 
 
-
-
-/* ////// BEGIN NAV CONTACT ICONS */
-.nav-contact-icons {
-  display: flex;
-  flex-direction: row;
-  margin-left: 20px;
-  height: 20px;
+/* center main navigation when not in mobile toggle mode */
+@media (min-width: 1200px) {
+    #navbarNavDropdown {
+    justify-content: center;
+}
 }
 
-/* flex-item1 */
-.navbar {
-  flex: 1 1 auto;
+
+.navbar-toggler-right {
+    position: relative;
+    right: 0em;
 }
-
-/* flex-item2 */
-.nav-contact-icons {
-  flex: 1 1 auto;
-}
-
-.nav-contact-icons img {
-    width: 35px;
-}
-
-.nav-mail-icon {
-    margin-right: 12px;
-}
-
-@media (max-width: 1199px) {
-    .nav-contact-icons {
-      display: none;
-    }
-}
-/* END NAV CONTACT ICONS ///// */
-
-

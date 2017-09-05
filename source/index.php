@@ -1,5 +1,5 @@
 <?php
-$title = "Welcome to The Refuge Pain Center";
+$title = "Welcome to Dr. Nash";
 $keywords = "Pain Management, Pain Relief, Pain, Magnolia Texas";
 $description = "#";
 
@@ -10,18 +10,28 @@ $cta3 = 'show';
 
 require "includes/header.php";
 ?>
-
-<div class="jumbotron jumbotron-fluid jumbo-intro">
+<!--////// BEGIN INTRO JUMBOTRON-->
+<section class="jumbotron jumbotron-fluid jumbo-intro">
   <div class="container">
-    <h1 class="display-3">Lorem Ipso</h1>
-    <p class="lead">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur."</p>
-  </div>
-</div>
+    <div class="row">
+      <div class="col-sm-12 col-md-4 intro-block-1">
+        <h3 class="text-center">Regenerative Medicine</h3>
+      </div> <!-- /.cols -->
+      <div class="col-sm-12 col-md-4 intro-block-2">
+        <h3 class="text-center">Conditions Treated</h3>
+      </div> <!-- /.cols -->
+      <div class="col-sm-12 col-md-4 intro-block-3">
+        <h3 class="text-center">Innovative Treatments</h3>
+      </div> <!-- /.cols -->
+    </div> <!-- /.row -->
+  </div> <!-- /.container -->
+</section>
+<!--END INTRO JUMBOTRON ////// -->
 
 
 
 <!-- //////// BEGIN CTA -->
-<div class="container-fluid cta">
+<div class="container-fluid cta cta1">
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-12 text-center cta1-link">
@@ -31,9 +41,10 @@ require "includes/header.php";
   </div>
 </div> <!--/.container-->
 </div> <!--/.container-fluid /.cta-->
+<!--END CTA ////// -->
 
-<!-- ////// BEGIN JUMBOTRON 2-->
-<div class="jumbotron jumbotron-fluid jumbo2">
+<!-- ////// BEGIN SECTION: INTRO JUMBOTRON-->
+<section class="sect-treatments jumbotron jumbotron-fluid jumbo2">
   <div class="container">
     <h1 class="display-3 text-center">Claritas Est Etiam Processus</h1>
       <h4 class="text-center">Lorem ipsum dolor sit amet, consectetur  
@@ -54,9 +65,9 @@ require "includes/header.php";
 <button type="button" class="btn btn-primary-cust d-block mx-auto mt-5">Learn More</button>
 
   </div> <!--/.container-->
-</div>
+</section>
 
-<!--END JUMBOTRON 2 ////// -->
+<!--END SECTION: INTRO JUMBOTRON ////// -->
 
 
 

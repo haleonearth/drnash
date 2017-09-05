@@ -1,0 +1,47 @@
+.bg-top-white {
+    background-image: url("../images/pattern-carbon-fiber-white.png");
+}
+
+/* adjust background image to fill vertically in mobile view */
+@media (min-width: 992px) {
+    .bg-top-white {
+        background-size: contain;
+    }
+}
+
+/* adjust background image to fill vertically in mobile view */
+@media (max-width: 991px) {
+    .bg-top-white {
+        background-size: cover;
+    }
+}
+
+.logo1 {
+    width: 150px;
+    text-align: center;
+    display: block;
+    margin: 8px 0;
+}
+
+.header-contact {
+    color: $dnGray;
+    text-align: center;
+    display: table;
+}
+
+.header-contact p {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+/* reorder logo to appear at top in mobile views */
+@media (max-width: 576px) {
+  .flex-xs-first {
+    -webkit-box-ordinal-group: 0;
+    -webkit-order: -1;
+        -ms-flex-order: -1;
+            order: -1;
+  }
+}

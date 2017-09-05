@@ -1,7 +1,15 @@
 .jumbo-intro {
-    background-image: url("../images/jumbo.jpg");
+    background-image: url("../images/carousel.jpg");
     background-repeat: no-repeat;
     background-position: center; 
+}
+
+@media (max-width: 575px) {
+    .jumbo-intro {
+        background-image: url("../images/jt-mobile.jpg");;
+        background-repeat: no-repeat;
+        background-position: center; 
+    }
 }
 
 .jumbo-intro {
@@ -10,41 +18,21 @@
 
 .jumbo-intro {
     margin-bottom: 0;
+    height: 460px;
 }
 
-
-/* ////// BEGIN CTA */
-.cta {
-    height: auto;
-    background-image: url("../images/cta-bg.png");
-    background-size: 50px;
+.jumbo-intro h3 {
+    font-weight: 100;
 }
 
-.cta a {
-  font-size: 2rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #000;
+.intro-block-1 {
+    background-color: $TielTrans50;
 }
 
-.btn-cta-arrow {
-  width: 44px;
-  margin-top: -10px;
+.intro-block-2 {
+    background-color: $BlueTrans50;
 }
 
-.jumbotron .row {
-    margin-top: 70px;
+.intro-block-3 {
+    background-color: $GreenTrans50;
 }
-
-.jumbotron h1 {
-    margin-bottom: 30px;
-}
-
-.cta1-link {
-    margin-top: 4px;
-}
-
-
-
-/* END CTA ////// */

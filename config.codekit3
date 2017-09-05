@@ -12,7 +12,7 @@
 		"uuidString": "EBDC9B34-B054-4819-AF9A-6CE0DB60528C"
 		}
 	],
-"creatorBuild": "25849",
+"creatorBuild": "25900",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -238,6 +238,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap-min.js",
@@ -247,6 +248,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/dist\/js\/bootstrap.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/build\/js\/bootstrap.min-min.js",
@@ -671,6 +673,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/docs.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/docs.min-min.js",
@@ -680,6 +683,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie-emulation-modes-warning.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie-emulation-modes-warning-min.js",
@@ -689,6 +693,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie10-viewport-bug-workaround.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/ie10-viewport-bug-workaround-min.js",
@@ -698,6 +703,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/src\/application.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/src\/application-min.js",
@@ -707,6 +713,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/anchor.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/anchor.min-min.js",
@@ -716,6 +723,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/clipboard.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/clipboard.min-min.js",
@@ -725,6 +733,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/holder.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/holder.min-min.js",
@@ -734,6 +743,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jekyll-search.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jekyll-search.min-min.js",
@@ -743,6 +753,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jquery-slim.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/jquery-slim.min-min.js",
@@ -752,6 +763,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/tether.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/assets\/js\/vendor\/tether.min-min.js",
@@ -1666,6 +1678,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap-min.js",
@@ -1675,6 +1688,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/dist\/js\/bootstrap.min-min.js",
@@ -1910,6 +1924,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/offcanvas.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/offcanvas\/offcanvas-min.js",
@@ -2199,6 +2214,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/tooltip-viewport.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/docs\/examples\/tooltip-viewport\/tooltip-viewport-min.js",
@@ -2828,6 +2844,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/change-version.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/change-version-min.js",
@@ -2859,6 +2876,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/grunt\/postcss.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/grunt\/postcss-min.js",
@@ -2880,6 +2898,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/Gruntfile.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/Gruntfile-min.js",
@@ -2921,6 +2940,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/alert-min.js",
@@ -2936,6 +2956,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/button.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/button-min.js",
@@ -2951,6 +2972,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/carousel-min.js",
@@ -2966,6 +2988,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/collapse-min.js",
@@ -2981,6 +3004,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/dropdown-min.js",
@@ -2996,6 +3020,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/modal-min.js",
@@ -3011,6 +3036,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/popover-min.js",
@@ -3026,6 +3052,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/scrollspy-min.js",
@@ -3041,6 +3068,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/tab-min.js",
@@ -3056,6 +3084,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/tooltip-min.js",
@@ -3071,6 +3100,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/dist\/util.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/dist\/util-min.js",
@@ -3086,6 +3116,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/alert.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/alert-min.js",
@@ -3095,6 +3126,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/button.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/button-min.js",
@@ -3104,6 +3136,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/carousel.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/carousel-min.js",
@@ -3113,6 +3146,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/collapse.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/collapse-min.js",
@@ -3122,6 +3156,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/dropdown.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/dropdown-min.js",
@@ -3131,6 +3166,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/modal.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/modal-min.js",
@@ -3140,6 +3176,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/popover.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/popover-min.js",
@@ -3149,6 +3186,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/scrollspy.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/scrollspy-min.js",
@@ -3158,6 +3196,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/tab.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/tab-min.js",
@@ -3167,6 +3206,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/tooltip.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/tooltip-min.js",
@@ -3176,6 +3216,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/src\/util.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/src\/util-min.js",
@@ -3217,6 +3258,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/alert.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/alert-min.js",
@@ -3226,6 +3268,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/button.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/button-min.js",
@@ -3235,6 +3278,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/carousel.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/carousel-min.js",
@@ -3244,6 +3288,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/collapse.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/collapse-min.js",
@@ -3253,6 +3298,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/dropdown.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/dropdown-min.js",
@@ -3262,6 +3308,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/modal.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/modal-min.js",
@@ -3271,6 +3318,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/phantom.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/phantom-min.js",
@@ -3280,6 +3328,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/popover.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/popover-min.js",
@@ -3289,6 +3338,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/scrollspy.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/scrollspy-min.js",
@@ -3298,6 +3348,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tab.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tab-min.js",
@@ -3307,6 +3358,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tooltip.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/unit\/tooltip-min.js",
@@ -3326,6 +3378,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/js\/tests\/vendor\/qunit.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/js\/tests\/vendor\/qunit-min.js",
@@ -3419,6 +3472,7 @@
 		},
 	"\/source\/bootstrap-4.0.0-alpha.6\/package.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/build\/bootstrap-4.0.0-alpha.6\/package-min.js",
@@ -5028,11 +5082,186 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/source\/docs\/EP389.001 Massee_Dehydrated Human Amnion Chorion Membrane Regulates Stem Cell Activity In Vitro.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/docs\/EP389.001 Massee_Dehydrated Human Amnion Chorion Membrane Regulates Stem Cell Activity In Vitro.pdf",
+		"oF": 0
+		},
 	"\/source\/elements\/logo for dr nash.ai": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/elements\/logo for dr nash.ai",
 		"oF": 0
+		},
+	"\/source\/images\/bg-carbon-fiber-blue-faded-angle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/bg-carbon-fiber-blue-faded-angle.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/bg-carbon-fiber-blue-faded-angle@3x.png": {
+		"ft": 32768,
+		"iS": 610784,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-carbon-fiber-blue-faded-angle@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-green-staggered.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-green-staggered.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-green-staggered@3x.png": {
+		"ft": 32768,
+		"iS": 288448,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-green-staggered@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-green-tiered-fade.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-green-tiered-fade.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-green-tiered-fade@3x.png": {
+		"ft": 32768,
+		"iS": 607793,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-green-tiered-fade@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-green-tiered.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-green-tiered.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-green-tiered@3x.png": {
+		"ft": 32768,
+		"iS": 332756,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-green-tiered@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-white-asym-crop1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-white-asym-crop1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-white-asym-crop1@3x.png": {
+		"ft": 32768,
+		"iS": 1390395,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-white-asym-crop1@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-white-asym-crop2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-white-asym-crop2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-white-asym-crop2@3x.png": {
+		"ft": 32768,
+		"iS": 808883,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-white-asym-crop2@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-white-fade.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-white-fade.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/bg-pattern-carbon-fiber-white-fade@3x.png": {
+		"ft": 32768,
+		"iS": 712423,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-pattern-carbon-fiber-white-fade@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-top-white.png": {
+		"ft": 32768,
+		"iS": 78911,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-top-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/bg-top-white@2x.png": {
+		"ft": 32768,
+		"iS": 255990,
+		"oA": 0,
+		"oAP": "\/build\/images\/bg-top-white@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/images\/btn-arrow.svg": {
 		"ft": 2097152,
@@ -5043,6 +5272,44 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/source\/images\/caroucells.png": {
+		"ft": 32768,
+		"iS": 417264,
+		"oA": 0,
+		"oAP": "\/build\/images\/caroucells.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/caroucells@2x.png": {
+		"ft": 32768,
+		"iS": 766976,
+		"oA": 0,
+		"oAP": "\/build\/images\/caroucells@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/carousel.jpg": {
+		"ft": 16384,
+		"iS": 60587,
+		"oA": 0,
+		"oAP": "\/build\/images\/carousel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/source\/images\/carousel.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/images\/carousel.psd",
+		"oF": 0
 		},
 	"\/source\/images\/cross-heart.png": {
 		"ft": 32768,
@@ -5097,6 +5364,49 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/source\/images\/envelope-white.png": {
+		"ft": 32768,
+		"iS": 833,
+		"oA": 0,
+		"oAP": "\/build\/images\/envelope-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/envelope-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/envelope-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/envelope-white@2x.png": {
+		"ft": 32768,
+		"iS": 1925,
+		"oA": 0,
+		"oAP": "\/build\/images\/envelope-white@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/envelope-white@3x.png": {
+		"ft": 32768,
+		"iS": 2818,
+		"oA": 0,
+		"oAP": "\/build\/images\/envelope-white@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/source\/images\/facebook-square-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -5106,6 +5416,38 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/source\/images\/header-pattern-.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/header-pattern-.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/header-pattern-1@2x.png": {
+		"ft": 32768,
+		"iS": 48260,
+		"oA": 0,
+		"oAP": "\/build\/images\/header-pattern-1@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/header-pattern.png": {
+		"ft": 32768,
+		"iS": 19521,
+		"oA": 0,
+		"oAP": "\/build\/images\/header-pattern.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/source\/images\/icon-brain.svg": {
 		"ft": 2097152,
@@ -5187,6 +5529,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/source\/images\/jt-mobile.jpg": {
+		"ft": 16384,
+		"iS": 12032,
+		"oA": 0,
+		"oAP": "\/build\/images\/jt-mobile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/source\/images\/jumbo.jpg": {
 		"ft": 16384,
 		"iS": 351236,
@@ -5199,7 +5551,7 @@
 		},
 	"\/source\/images\/logo.png": {
 		"ft": 32768,
-		"iS": 30044,
+		"iS": 1341,
 		"oA": 0,
 		"oAP": "\/build\/images\/logo.png",
 		"oF": 0,
@@ -5237,6 +5589,187 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/source\/images\/mobile.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/images\/mobile.psd",
+		"oF": 0
+		},
+	"\/source\/images\/nash-sym-black.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/nash-sym-black.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/nash-sym-black@3x.png": {
+		"ft": 32768,
+		"iS": 6599,
+		"oA": 0,
+		"oAP": "\/build\/images\/nash-sym-black@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/nash-sym-blue.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/nash-sym-blue.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/nash-sym-blue@3x.png": {
+		"ft": 32768,
+		"iS": 6023,
+		"oA": 0,
+		"oAP": "\/build\/images\/nash-sym-blue@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/nash-sym-green.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/nash-sym-green.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/nash-sym-green@3x.png": {
+		"ft": 32768,
+		"iS": 6023,
+		"oA": 0,
+		"oAP": "\/build\/images\/nash-sym-green@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/nash-sym-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/nash-sym-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/nash-sym-white@3x.png": {
+		"ft": 32768,
+		"iS": 6062,
+		"oA": 0,
+		"oAP": "\/build\/images\/nash-sym-white@3x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/pattern-carbon-fiber-blue.png": {
+		"ft": 32768,
+		"iS": 20975,
+		"oA": 0,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-blue.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/pattern-carbon-fiber-blue.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-blue.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/pattern-carbon-fiber-blue@2x.png": {
+		"ft": 32768,
+		"iS": 52028,
+		"oA": 0,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-blue@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/pattern-carbon-fiber-green.png": {
+		"ft": 32768,
+		"iS": 24536,
+		"oA": 0,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-green.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/pattern-carbon-fiber-green.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-green.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/pattern-carbon-fiber-green@2x.png": {
+		"ft": 32768,
+		"iS": 61947,
+		"oA": 0,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-green@2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/pattern-carbon-fiber-white.png": {
+		"ft": 32768,
+		"iS": 14911,
+		"oA": 0,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/source\/images\/pattern-carbon-fiber-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/build\/images\/pattern-carbon-fiber-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/source\/images\/pattern.ai": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/images\/pattern.ai",
+		"oF": 0
 		},
 	"\/source\/images\/slide-1.jpg": {
 		"ft": 16384,
@@ -5300,6 +5833,7 @@
 		},
 	"\/source\/js\/bootstrap.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/build\/js\/bootstrap.min-min.js",
@@ -5504,6 +6038,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/source\/scss-oe\/components\/_ctas.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/scss-oe\/components\/_ctas.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/source\/scss-oe\/components\/_feedback.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5686,6 +6233,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/source\/scss-oe\/utils\/_breakpoints.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/scss-oe\/utils\/_breakpoints.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/source\/scss-oe\/utils\/_functions.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5740,7 +6300,7 @@
 	"creationDate": 521427212,
 	"displayValue": "drnash",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-cocaine"
+	"iconImageName": "meme-ariel"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -6144,6 +6704,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -6151,6 +6715,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -6248,6 +6816,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -6267,6 +6839,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -6395,6 +6971,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -6940,6 +7520,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -7008,6 +7592,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -7047,6 +7635,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -7680,6 +8272,7 @@
 	"previewPathAddition": "\/build\/index.php",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
